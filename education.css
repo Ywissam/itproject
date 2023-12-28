@@ -1,0 +1,45 @@
+
+
+
+body{
+    margin: 0 auto;
+}
+header.header img{
+    width: 150px; ;
+}
+header.header{
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+section.top-page{
+    background: url('EDUCATION N.webp');
+    height: 88vh;
+    background-size: cover;
+    padding: 25px; ;
+}
+nav.nav{
+    display: flex;
+    list-style: none;
+    background-color: aqua;
+    width: 400px;
+    margin-left: 30px;
+    justify-content: space-between;
+}
+nav.nav li{
+    color:blue;
+     
+}
+.big-title{
+   color: aliceblue;
+   font-size: 88px; 
+   padding: 20px 50px;
+}
+.dd{
+    color: black;
+    font-size: 40px;
+}
+.yay{
+    
+}
